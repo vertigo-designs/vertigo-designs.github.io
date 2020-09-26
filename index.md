@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+---
+layout: home
+header:
+  title: Embedded Consulting
+  text: >
+    Looking for help with your next hardware design?
+  action: # action button is optional
+    label: F nd Out More
+    url: '#services'
 
-You can use the [editor on GitHub](https://github.com/vertigo-designs/vertigo-designs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+sections:
 
-### Markdown
+  - type: services.html
+    section_id: services
+    title: At Your Service
+    services:
+      - title: Product Development
+        text: Plan and develop your next product
+        icon: fa-gem text-info
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      - title: Firmware Development
+        text: Writing and debugging embedded software
+        icon: fa-laptop-code
 
-```markdown
-Syntax highlighted code block
+      - title: Hardware Design
+        text: Schematic capture and board layout
+        icon: fa-microchip
 
-# Header 1
-## Header 2
-### Header 3
+      - title: Continuous Integration
+        text: Design and implement CI/CD pipelines for your product
+        icon: fa-paper-plane
 
-- Bulleted
-- List
+      - title: Test Automation
+        text: Design automated test systems to deliver high-quality products
+        icon: fa-robot
 
-1. Numbered
-2. List
+  - type: contact.html
+    section_id: contacts
+    title: Contact Us
+    background_style: bg-dark text-white
+    text: >-
+      Ready to start your next project with us? Give us a call or send us an email
+      and we will get back to you as soon as possible!
+    actions:
+    - title: +49 151 4245-3145 (Germany)
+      icon: fa-phone
+#    - title: +1 (425) 239-5709 (USA)
+#      icon: fa-phone
+    - title: E-Mail
+      icon: fa-envelope
+      url: mailto:ryan.summers@vertigo-designs.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vertigo-designs/vertigo-designs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
