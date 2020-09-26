@@ -49,6 +49,6 @@ sections:
 #      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:ryan.summers@vertigo-designs.com
+      url: mailto:info@vertigo-designs.com
 
 ---
