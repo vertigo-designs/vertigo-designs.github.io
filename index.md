@@ -5,7 +5,7 @@ header:
   text: >
     Looking for help with your next hardware design?
   action: # action button is optional
-    label: F nd Out More
+    label: Find Out More
     url: '#services'
 
 
