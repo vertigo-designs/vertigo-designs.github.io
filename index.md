@@ -50,5 +50,4 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:info@vertigo-designs.com
-
 ---
