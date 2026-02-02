@@ -22,3 +22,5 @@ exclude:
   - Readme.md
   - LICENSE
   - CNAME
+  - vendor
+  - about.md

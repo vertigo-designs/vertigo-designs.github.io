@@ -1,9 +1,9 @@
 ---
 layout: home
 header:
-  title: Embedded Consulting
+  title: Engineering Consulting
   text: >
-    Looking for help with your next hardware design?
+    Looking for help with your next engineering project?
   action: # action button is optional
     label: Find Out More
     url: '#services'

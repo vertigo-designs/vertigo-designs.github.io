@@ -5,7 +5,7 @@ This repository contains the vertigo-designs homepage. The page uses
 
 ## Running locally
 
-To run the website locally, follow the installation instructions and execution instructions localted
+To run the website locally, follow the installation instructions and execution instructions located
 on [github's help page](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll).
 
 To build the website locally, run `bundle exec jekyll serve` and open `localhost:4000` in a web
